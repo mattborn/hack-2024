@@ -1,0 +1,9 @@
+{
+  "deps": ["bornjson", "calcutai"],
+  "description": "Standard dashboard for spend, utilization, and performance.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": [],
+  "title": "Dashboard 🔴",
+  "urls": []
+}

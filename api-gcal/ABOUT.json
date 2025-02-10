@@ -1,0 +1,9 @@
+{
+  "deps": [],
+  "description": "Pull & push Google Calendar events.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Today"],
+  "title": "Gcal API 🔴",
+  "urls": ["mattborn.com/api-gcal"]
+}

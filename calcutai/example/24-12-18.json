@@ -1,0 +1,78 @@
+[
+  {
+    "start": "9:00",
+    "project": "Moona CRM",
+    "task": "Feedback for Carlo in Slack"
+  },
+  {
+    "start": "9:30",
+    "project": "Moona",
+    "task": "Sync with Smriti"
+  },
+  {
+    "start": "10:30",
+    "project": "Moona Hiring",
+    "task": "Meet with Logan Selk"
+  },
+  {
+    "start": "11:00",
+    "project": "Moona Hiring",
+    "task": "Meet with Logan Selk"
+  },
+  {
+    "start": "11:30",
+    "project": "Moona Sales",
+    "task": "Bryan McGowan"
+  },
+  {
+    "start": "12:00",
+    "project": "Moona Sales",
+    "task": "Bryan McGowan"
+  },
+  {
+    "start": "12:30",
+    "project": "Moona CRM",
+    "task": "Feedback for Carlo in Slack"
+  },
+  {
+    "start": "13:00",
+    "project": "Hack",
+    "task": "Make ~/Hack portable",
+    "result": "https://github.com/mattborn/hack"
+  },
+  {
+    "start": "13:30",
+    "project": "Moona CRM",
+    "task": "Feedback for Carlo in Slack"
+  },
+  {
+    "start": "14:00",
+    "project": "Moona CRM",
+    "task": "Feedback for Carlo in Slack"
+  },
+  {
+    "start": "14:30",
+    "project": "Personal",
+    "task": "Shower"
+  },
+  {
+    "start": "15:00",
+    "project": "Moona Site",
+    "task": "Hack with Smriti"
+  },
+  {
+    "start": "15:30",
+    "project": "Moona Site",
+    "task": "Hack with Smriti"
+  },
+  {
+    "start": "16:00",
+    "project": "Moona Billing",
+    "task": "Hack with Smriti"
+  },
+  {
+    "start": "16:30",
+    "project": "Moona Billing",
+    "task": "Hack with Smriti"
+  }
+]

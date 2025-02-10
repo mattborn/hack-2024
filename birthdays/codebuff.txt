@@ -1,0 +1,1 @@
+create a vanilla HTML project in /birthdays with index.html, scripts.js, and styles.css that [your idea here], craft a brief README.md file that describes the project, keep the code as minimal as possible

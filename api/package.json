@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy"
+  },
+  "dependencies": {
+    "openai": "^4.73.1"
+  },
+  "devDependencies": {
+    "vercel": "^39.1.2"
+  }
+}

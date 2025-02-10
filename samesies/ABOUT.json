@@ -1,0 +1,9 @@
+{
+  "deps": ["calcutai", "minterface"],
+  "description": "Copy pasta from a one page library of static components.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Next", "Web"],
+  "title": "Samesies 🔵",
+  "urls": ["samesi.es", "samesies.dev", "samesies.ai"]
+}

@@ -1,0 +1,9 @@
+{
+  "deps": ["bornjson", "calcutai", "dilemm", "mattborn", "Web", "wejoin"],
+  "description": "The Superwork Series will 9x your work with AI.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Next", "Web"],
+  "title": "Superwork 🔵",
+  "urls": ["superwork.us"]
+}

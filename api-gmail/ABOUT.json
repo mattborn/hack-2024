@@ -1,0 +1,9 @@
+{
+  "deps": ["credentials.json"],
+  "description": "Pull emails from Gmail.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Limbo"],
+  "title": "Gmail API 🔴",
+  "urls": ["gmailpull.com"]
+}

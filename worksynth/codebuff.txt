@@ -1,0 +1,1 @@
+probably way too big - a series of CLIs to get recent messages from Slack, get tickets and comments from Linear, Trello, and Figma, get recent transcriptions from Zoom and uploads, let me add arbitrary notes, generate TODO list with hyper brief summaries

@@ -1,0 +1,45 @@
+{
+  "devices": [
+    {
+      "id": "hvac",
+      "name": "HVAC System",
+      "baseloadKw": 3.5,
+      "peakKw": 5.2,
+      "controllable": true
+    },
+    {
+      "id": "waterheater",
+      "name": "Water Heater",
+      "baseloadKw": 2.0,
+      "peakKw": 4.5,
+      "controllable": true
+    }
+  ],
+  "rates": {
+    "offPeak": 0.08,
+    "peak": 0.24,
+    "peakHours": [14, 15, 16, 17, 18, 19]
+  },
+  "guide": [
+    {
+      "id": "welcome",
+      "title": "Welcome to Wattwise",
+      "content": "Let's optimize your electricity usage and save money through demand response."
+    },
+    {
+      "id": "devices",
+      "title": "Add Your Devices",
+      "content": "Start by adding your major electrical devices like HVAC and water heaters."
+    },
+    {
+      "id": "schedule",
+      "title": "Set Your Schedule",
+      "content": "Tell us when you typically use electricity so we can find savings opportunities."
+    },
+    {
+      "id": "monitor",
+      "title": "Monitor Usage",
+      "content": "Watch your real-time electricity usage and get alerts for demand response events."
+    }
+  ]
+}

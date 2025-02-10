@@ -1,0 +1,113 @@
+[
+  {
+    "start": "7:30",
+    "project": "Moona Hiring",
+    "task": "Call with Somewhere"
+  },
+  {
+    "start": "8:00",
+    "project": "Moona",
+    "task": "Sync with Smriti"
+  },
+  {
+    "start": "8:30",
+    "project": "Personal",
+    "task": "Shower"
+  },
+  {
+    "start": "9:00",
+    "project": "HumanLayer",
+    "task": "Commute to office with Dex"
+  },
+  {
+    "start": "9:30",
+    "project": "Hacklist",
+    "task": "Organize projects",
+    "result": "Learned Calcutai is the most mission critical project!"
+  },
+  {
+    "start": "10:00",
+    "project": "Calcutai",
+    "task": "Create example JSON schema & in Born.json",
+    "result": "http://localhost:2448/calcutai/example/24-12-11.json"
+  },
+  {
+    "start": "10:30",
+    "project": "HumanLayer",
+    "task": "Manually synthesize recent conversations, Linear, and Slack",
+    "result": "https://moonadesign.slack.com/archives/C084K10JEDP/p1733942858108549?thread_ts=1733942813.536119&cid=C084K10JEDP"
+  },
+  {
+    "start": "11:00",
+    "project": "HumanLayer",
+    "task": "Super fast chat with Dex about marketing page OTL"
+  },
+  {
+    "start": "11:30",
+    "project": "HumanLayer",
+    "task": "Lunch with Dex & Paulo"
+  },
+  {
+    "start": "12:00",
+    "project": "Born.json",
+    "task": "Draft alpha schemas with Cursor including new projects"
+  },
+  {
+    "start": "12:30",
+    "project": "Calcutai",
+    "task": "Visualize example/24-12-11.json",
+    "result": "http://localhost:2448/calcutai"
+  },
+  {
+    "start": "13:00",
+    "project": "HumanLayer",
+    "task": "Marketing page OTL disco",
+    "result": "Learned typography is the obvious aesthetic opportunity"
+  },
+  {
+    "start": "13:30",
+    "project": "Arrowstate",
+    "task": "codebuff v0",
+    "result": "http://localhost:2448/arrowstate"
+  },
+  {
+    "start": "14:00",
+    "project": "Born.json",
+    "task": "Fix the damn deterministic jq sort command",
+    "result": "Learned Claude/Cursor is unreliable for order of operations"
+  },
+  {
+    "start": "14:30",
+    "project": "**",
+    "task": "Send async video to Shane"
+  },
+  {
+    "start": "15:00",
+    "project": "Gitfarm",
+    "task": "codebuff v0",
+    "result": "https://github.com/mattborn/gitfarm"
+  },
+  {
+    "start": "15:30",
+    "project": "Gitfarm",
+    "task": "Fucking Cursor broke everything",
+    "result": "Learned I should expect Cursor to waste 1hr+ for simple projects"
+  },
+  {
+    "start": "16:00",
+    "project": "HumanLayer",
+    "task": "Fix awkwardly centered nav items",
+    "result": "https://github.com/metalytics-dev/metalytics/pull/808"
+  },
+  {
+    "start": "16:30",
+    "project": "HumanLayer",
+    "task": "Report issues with marketing page",
+    "result": "https://linear.app/humanlayer/issue/TEM-40/marketing-website-redesign"
+  },
+  {
+    "start": "19:30",
+    "project": "Personal",
+    "task": "Call Megan before she goes to bed"
+  }
+]

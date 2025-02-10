@@ -1,0 +1,3 @@
+# Peoplejs.net
+
+Portable CRM.

@@ -1,0 +1,9 @@
+{
+  "deps": ["calcutai", "talk-to-json"],
+  "description": "Generate structured content from a personalized context window.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["HumanLayer", "Micro", "Next", "Subsurf", "Web"],
+  "title": "Copykit 🔵",
+  "urls": ["copykit.net"]
+}

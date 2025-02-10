@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tellstack</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <section id="listen">
+        <h2>Listen</h2>
+        <div class="demo">
+          <div id="waveform"></div>
+          <button id="recordButton">Start Recording</button>
+          <div class="stats">
+            <div class="stat">
+              <label>Status</label>
+              <span id="listenStatus">Ready</span>
+            </div>
+            <div class="stat">
+              <label>Latency</label>
+              <span id="listenLatency">0ms</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="transcribe">
+        <h2>Transcribe</h2>
+        <div class="demo">
+          <div class="stats">
+            <div class="stat">
+              <label>Status</label>
+              <span id="transcribeStatus">Waiting for audio</span>
+            </div>
+            <div class="stat">
+              <label>Latency</label>
+              <span id="transcribeLatency">-</span>
+            </div>
+          </div>
+          <div id="transcription"></div>
+        </div>
+      </section>
+
+      <section id="format">
+        <h2>Format</h2>
+        <div class="demo">
+          <div class="stats">
+            <div class="stat">
+              <label>Status</label>
+              <span id="formatStatus">Waiting for transcription</span>
+            </div>
+            <div class="stat">
+              <label>Latency</label>
+              <span id="formatLatency">-</span>
+            </div>
+          </div>
+          <div id="formatted"></div>
+        </div>
+      </section>
+    </main>
+    <script type="module" src="scripts.js"></script>
+  </body>
+</html>

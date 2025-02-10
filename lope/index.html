@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOPE Testing Guide</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app">
+      <aside class="guide">
+        <div class="guide-content"></div>
+        <div class="guide-nav">
+          <button id="prevStep">Previous</button>
+          <button id="nextStep">Next</button>
+        </div>
+      </aside>
+      
+      <main>
+        <header>
+          <h1>LOPE Testing Guide</h1>
+          <div class="status">
+            <span id="phase">Calibration</span>
+          </div>
+        </header>
+
+        <section id="calibration" class="phase">
+          <h2>Calibration Phase</h2>
+          <div class="steps">
+            <div class="step">
+              <h3>1. Upload Calibration Sketch</h3>
+              <pre><code class="upload-command">arduino-cli upload -b arduino:avr:nano calibration.ino</code></pre>
+            </div>
+            <div class="step">
+              <h3>2. Zero the Load Cell</h3>
+              <p>Ensure no force is applied to the handle</p>
+              <button onclick="logReading('zero')">Log Zero Reading</button>
+            </div>
+            <div class="step">
+              <h3>3. Test Known Weight</h3>
+              <input type="number" id="testWeight" value="10" min="1" max="20"> kg
+              <button onclick="logReading('weight')">Log Weight Reading</button>
+            </div>
+            <div class="step">
+              <h3>4. Calculate Factor</h3>
+              <div id="calibrationResult"></div>
+            </div>
+          </div>
+        </section>
+
+        <section id="testing" class="phase" style="display: none">
+          <h2>Testing Phase</h2>
+          <div class="controls">
+            <div class="control-group">
+              <label>Assist Level</label>
+              <input type="range" id="assistLevel" min="20" max="100" value="50">
+              <span id="assistValue">50%</span>
+            </div>
+            <div class="control-group">
+              <label>Force Threshold</label>
+              <input type="range" id="forceThreshold" min="5" max="30" value="10">
+              <span id="forceValue">1.0 kg</span>
+            </div>
+            <div class="control-group">
+              <label>Max Speed</label>
+              <input type="range" id="maxSpeed" min="4" max="12" value="8">
+              <span id="speedValue">8.0 km/h</span>
+            </div>
+          </div>
+          
+          <div class="test-log">
+            <h3>Test Log</h3>
+            <div id="logEntries"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>

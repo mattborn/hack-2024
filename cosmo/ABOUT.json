@@ -1,0 +1,9 @@
+{
+  "deps": ["calcutai", "talk-to-json"],
+  "description": "An AI agent that serves as your Chief of Staff.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Later"],
+  "title": "Cosmo 🔴",
+  "urls": ["agentcosmo.com"]
+}

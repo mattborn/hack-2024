@@ -1,0 +1,9 @@
+{
+  "deps": ["born.json", "calcutai", "talk-to-json"],
+  "description": "An AI agent that bullet journals for you.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Next", "Stuck"],
+  "title": "Bullets 🔵",
+  "urls": ["bullets.pro", "bulletagent.com"]
+}

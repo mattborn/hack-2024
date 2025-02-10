@@ -1,0 +1,53 @@
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 2rem;
+}
+
+.templates {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.template {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  opacity: 0.7;
+}
+
+pre {
+  border-radius: 6px;
+  margin: 0;
+}
+
+.copy {
+  background: #eee;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+pre {
+  position: relative;
+}
+
+.copy:hover {
+  background: #ddd;
+}

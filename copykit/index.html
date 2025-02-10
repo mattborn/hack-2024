@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Copykit</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="https://kit.fontawesome.com/0bef9420dc.js" crossorigin="anonymous"></script>
+    <script defer src="scripts.js"></script>
+  </head>
+  <body>
+    <h1>Copykit</h1>
+    <p>A collection of web layout prerolls.</p>
+
+    <div class="card">
+      <div class="stack">
+        <label for="prompt">Prompt</label>
+        <textarea id="prompt" placeholder="Enter your prompt here..."></textarea>
+      </div>
+      
+      <div class="stack">
+        <label for="input-json">Input JSON</label>
+        <textarea id="input-json" placeholder="Enter your JSON data here..."></textarea>
+      </div>
+
+      <div class="stack">
+        <label for="output-json">Output</label>
+        <pre id="output-json"></pre>
+      </div>
+
+      <div class="buttons">
+        <div class="button invert" id="run-button">
+          <i class="fa-solid fa-play"></i>
+          Run
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

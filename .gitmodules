@@ -1,0 +1,48 @@
+[submodule "api-openai-4"]
+	path = api-openai-4
+	url = git@github.com:mattborn/api-openai-4.git
+[submodule "bornjson"]
+	path = bornjson
+	url = git@github.com:mattborn/bornjson.git
+[submodule "cardify"]
+	path = cardify
+	url = git@github.com:mattborn/cardify.git
+[submodule "gfux"]
+	path = gfux
+	url = git@github.com:mattborn/gfux.git
+[submodule "gitfarm"]
+	path = gitfarm
+	url = git@github.com:mattborn/gitfarm.git
+[submodule "hacklist"]
+	path = hacklist
+	url = git@github.com:mattborn/hacklist.git
+[submodule "markonce"]
+	path = markonce
+	url = git@github.com:mattborn/markonce.git
+[submodule "mirror"]
+	path = mirror
+	url = git@github.com:mattborn/mirror.git
+[submodule "pomoclock"]
+	path = pomoclock
+	url = git@github.com:mattborn/pomoclock.git
+[submodule "ref/hundred-vanilla"]
+	path = ref/hundred-vanilla
+	url = git@github.com:mattborn/hundred-vanilla.git
+[submodule "ref/memer"]
+	path = ref/memer
+	url = git@github.com:mattborn/getmemer.com.git
+[submodule "start-api"]
+	path = start-api
+	url = git@github.com:mattborn/start-api.git
+[submodule "start-jan4"]
+	path = start-jan4
+	url = git@github.com:mattborn/start-jan4.git
+[submodule "talk-to-json"]
+	path = talk-to-json
+	url = git@github.com:mattborn/talk-to-json.git
+[submodule "thumby"]
+	path = thumby
+	url = git@github.com:mattborn/thumby.git
+[submodule "sprinter-nav"]
+	path = sprinter-nav
+	url = git@github.com:moonadesign/sprinter-nav.git

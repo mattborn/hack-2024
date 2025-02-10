@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 100vh;
+  gap: 1rem;
+}
+
+.json-view {
+  padding: 2rem;
+  background: #263238;
+  overflow: auto;
+}
+
+.preview {
+  padding: 2rem;
+  background: #fff;
+  overflow: auto;
+}
+
+/* Ensure code blocks look nice */
+pre {
+  margin: 0;
+}
+
+code {
+  font-size: 14px;
+}
+
+.state-preview {
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.state-preview h2 {
+  margin: 0 0 0.5rem 0;
+}
+
+.state-preview p {
+  margin: 0;
+}

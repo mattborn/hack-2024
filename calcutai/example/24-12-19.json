@@ -1,0 +1,98 @@
+[
+  {
+    "start": "8:30",
+    "project": "Personal",
+    "task": "Take girls to school"
+  },
+  {
+    "start": "9:00",
+    "project": "Moona Sales",
+    "task": "Scale Summit Mastermind Group"
+  },
+  {
+    "start": "9:30",
+    "project": "Moona Sales",
+    "task": "Scale Summit Mastermind Group"
+  },
+  {
+    "start": "10:00",
+    "project": "Moona Sales",
+    "task": "Scale Summit Mastermind Group"
+  },
+  {
+    "start": "10:30",
+    "project": "Moona Sales",
+    "task": "Scale Summit Mastermind Group"
+  },
+  {
+    "start": "11:00",
+    "project": "Moona CRM",
+    "task": "Collab with Carlo in Slack"
+  },
+  {
+    "start": "11:30",
+    "project": "Moona CRM",
+    "task": "Collab with Carlo in Slack"
+  },
+  {
+    "start": "12:00",
+    "project": "Personal",
+    "task": "Lunch"
+  },
+  {
+    "start": "12:30",
+    "project": "Moona CRM",
+    "task": "Collab with Carlo in Slack"
+  },
+  {
+    "start": "13:00",
+    "project": "Moona CRM",
+    "task": "Collab with Carlo in Slack"
+  },
+  {
+    "start": "14:00",
+    "project": "Moona ∫ Darrin",
+    "task": "Sync with Smriti"
+  },
+  {
+    "start": "14:30",
+    "project": "Moona CRM",
+    "task": "Slack Huddle with Carlo"
+  },
+  {
+    "start": "15:00",
+    "project": "Moona CRM",
+    "task": "Collab with Carlo in Slack"
+  },
+  {
+    "start": "15:30",
+    "project": "Moona CRM",
+    "task": "Collab with Carlo in Slack"
+  },
+  {
+    "start": "16:00",
+    "project": "Space out",
+    "task": "I just stare at my desk, but it looks like I’m working",
+    "result": "https://youtu.be/zBfTrjPSShs"
+  },
+  {
+    "start": "16:30",
+    "project": "Moona CRM",
+    "task": "Text with Jeff Huber"
+  },
+  {
+    "start": "17:00",
+    "project": "Personal",
+    "task": "Shower"
+  },
+  {
+    "start": "17:30",
+    "project": "Calcutai",
+    "task": "Update schedule"
+  },
+  {
+    "start": null,
+    "project": "HumanLayer",
+    "task": "Bullet time!"
+  }
+]

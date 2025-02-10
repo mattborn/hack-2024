@@ -1,0 +1,1 @@
+create a vanilla HTML project in /figmai with index.html, scripts.js, and styles.css that authenticates with Figma and is able to fetch and render data and create frames (may require an input for the file id or URL) as POC for a more complex two-way integration with Figma, craft a brief README.md file that describes the project, keep the code as minimal as possible

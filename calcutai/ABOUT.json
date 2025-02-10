@@ -1,0 +1,9 @@
+{
+  "deps": ["api-gcal", "talk-to-json"],
+  "description": "Voice to calendar blocking.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Today"],
+  "title": "Calcutai 🟡",
+  "urls": ["calcutai.com"]
+}

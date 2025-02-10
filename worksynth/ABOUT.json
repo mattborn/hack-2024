@@ -1,0 +1,9 @@
+{
+  "deps": ["bornjson", "calcutai"],
+  "description": "Outline TODO from recent chats & comments.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["CLI", "Next"],
+  "title": "Worksynth 🔵",
+  "urls": []
+}

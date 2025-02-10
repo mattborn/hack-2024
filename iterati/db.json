@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Big Daddy's Pizza",
+    "city": "Salt Lake",
+    "address": "Big Daddy's Pizza, Salt Lake City, UT",
+    "latitude": 40.751776,
+    "longitude": -111.883041
+  },
+  {
+    "name": "SetteBello Pizzeria",
+    "city": "Salt Lake",
+    "address": "Settebello Pizzeria Napoletana, 260 S 200 W, Salt Lake City, UT 84101, USA",
+    "latitude": 40.76323,
+    "longitude": -111.89559
+  },
+  {
+    "name": "The Pie Pizzeria",
+    "city": "Salt Lake",
+    "address": "1320 E 200 S, Salt Lake City, UT 84102, USA",
+    "latitude": 40.7646,
+    "longitude": -111.8536
+  },
+  {
+    "name": "Rusted Sun Pizzeria",
+    "city": "Salt Lake",
+    "address": "2010 S State St, Salt Lake City, UT 84115, USA",
+    "latitude": 40.723236,
+    "longitude": -111.888146
+  },
+  {
+    "name": "From Scratch",
+    "city": "Salt Lake",
+    "address": "362 East 900 South, Salt Lake City, UT 84111, USA",
+    "latitude": 40.749424,
+    "longitude": -111.878885
+  },
+  {
+    "name": "California Pizza Kitchen",
+    "city": "Salt Lake",
+    "address": "156 South 400 West, Salt Lake City, UT 84101, USA",
+    "latitude": 40.762719,
+    "longitude": -111.903408
+  },
+  {
+    "name": "Nomad Eatery",
+    "city": "Salt Lake",
+    "address": "165 W 900 S, Salt Lake City, UT 84101, USA",
+    "latitude": 40.7464,
+    "longitude": -111.8984
+  },
+  {
+    "name": "Pizzeria Limone",
+    "city": "Salt Lake",
+    "address": "613 E 400 S, Salt Lake City, UT 84102, USA",
+    "latitude": 40.7602,
+    "longitude": -111.8745
+  },
+  {
+    "name": "Sicilia Pizza Kitchen",
+    "city": "Salt Lake",
+    "address": "35 W Broadway, Salt Lake City, UT 84101, USA",
+    "latitude": 40.763493,
+    "longitude": -111.891278
+  },
+  {
+    "name": "Litzas Pizza",
+    "city": "Salt Lake",
+    "address": "Litzas Pizza, 716 E 400 S, Salt Lake City, UT 84102, USA",
+    "latitude": 40.758701,
+    "longitude": -111.867615
+  }
+]

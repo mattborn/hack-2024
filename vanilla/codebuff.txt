@@ -1,0 +1,5 @@
+create a vanilla HTML project in /vanilla with index.html, scripts.js, and styles.css that shows three code blocks rendered with Prism.js (see /bornjson for reference) containing minimalist starter markup for a new site each with an h2 and description sorted from fewest to most lines of code and each with a button to copy the code to clipboard, craft a brief README.md file that describes the project, keep the code as minimal as possible
+
+i would like to establish a pattern where the markup and documentation for each example is pulled from separate files so i can ensure proper formatting (i.e. with prettier.js) and i am not sure if i should do basic.html and basic.md in the root of the project or have folders for each example like basic/index.html and basic/README.md so you decide for me
+
+yes but no need to nest so deeply so lets get rid of the examples folder, the three examples should be called basic, standard, dependencies, and sections, and the README in each should be used to render the header, description, and arbitrary content below the code block and the copy button should be positioned 1rem from each edge inside the prism view

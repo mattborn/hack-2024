@@ -1,0 +1,100 @@
+[
+  {
+    "start": "8:30",
+    "project": "Personal",
+    "task": "Take girls to school"
+  },
+  {
+    "start": "9:00",
+    "project": "Moona ???",
+    "task": "Sync with Smriti & Carlo"
+  },
+  {
+    "start": "9:30",
+    "project": "Moona ???",
+    "task": "Sync with Smriti"
+  },
+  {
+    "start": "10:00",
+    "project": "???",
+    "task": ""
+  },
+  {
+    "start": "10:30",
+    "project": "Moona Shadow",
+    "task": "Meet with Logan Selk",
+    "result": "Rescheduled to tomorrow"
+  },
+  {
+    "start": "11:00",
+    "project": "Revalize Pricing",
+    "task": "Meet with Griffin, Jim, Mary & Smriti"
+  },
+  {
+    "start": "11:30",
+    "project": "Revalize Pricing",
+    "task": "Meet with Griffin, Jim, Mary & Smriti"
+  },
+  {
+    "start": "12:00",
+    "project": "Moona ???",
+    "task": "Sync with Shane & Carlo"
+  },
+  {
+    "start": "12:30",
+    "project": "Personal",
+    "task": "Get girls from school"
+  },
+  {
+    "start": "13:00",
+    "project": "Personal",
+    "task": "Lunch"
+  },
+  {
+    "start": "13:30",
+    "project": "Moona CRM",
+    "task": "Provide feedback on Pipeline people for Carlo",
+    "result": "https://moonadesign.slack.com/archives/D084YLJS21K/p1734467521210389"
+  },
+  {
+    "start": "14:00",
+    "project": "Personal",
+    "task": "Music class with Indigo"
+  },
+  {
+    "start": "14:30",
+    "project": "Personal",
+    "task": "Music class with Indigo"
+  },
+  {
+    "start": "15:00",
+    "project": "Personal",
+    "task": "Pick up Meg from Crate & Barrel"
+  },
+  {
+    "start": "15:30",
+    "project": "Shipmas!",
+    "task": "Watch the OpenAI update",
+    "result": "https://youtu.be/14leJ1fg4Pw?t=69"
+  },
+  {
+    "start": "16:00",
+    "project": "",
+    "task": ""
+  },
+  {
+    "start": "16:30",
+    "project": "",
+    "task": "Review email inbox with Carlo"
+  },
+  {
+    "start": "17:00",
+    "project": "Personal",
+    "task": "Prep for Taco Tuesday with Hendrix family"
+  },
+  {
+    "start": "17:30",
+    "project": "Personal",
+    "task": "Taco Tuesday!"
+  }
+]

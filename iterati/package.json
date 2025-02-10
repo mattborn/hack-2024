@@ -1,0 +1,17 @@
+{
+  "name": "iterati",
+  "version": "0.1.0",
+  "description": "A new way to build software and manage data.",
+  "main": "01-encode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "lowdb": "^7.0.1"
+  },
+  "type": "module"
+}

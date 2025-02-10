@@ -1,0 +1,9 @@
+{
+  "deps": ["api-gmail", "credentials.json"],
+  "description": "A tool to help you unsubscribe from spam emails.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Broken", "Limbo"],
+  "title": "Unspam 🔴",
+  "urls": []
+}

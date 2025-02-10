@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wattwise - Demand Response Monitor</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app">
+      <aside class="guide">
+        <div class="guide-content"></div>
+        <div class="guide-nav">
+          <button id="prevStep">Previous</button>
+          <button id="nextStep">Next</button>
+        </div>
+      </aside>
+      
+      <main>
+        <header>
+          <h1>Wattwise</h1>
+          <div class="current-usage">
+            <span id="kw">0.0</span>
+            <span class="unit">kW</span>
+          </div>
+        </header>
+
+        <section class="devices">
+          <h2>Devices</h2>
+          <div id="deviceList"></div>
+        </section>
+
+        <section class="rates">
+          <h2>Current Rate</h2>
+          <div id="rateInfo"></div>
+        </section>
+      </main>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>

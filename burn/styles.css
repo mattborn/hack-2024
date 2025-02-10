@@ -1,0 +1,26 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+  line-height: 1.5;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto auto;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+input {
+  padding: 0.5rem;
+}
+
+#totals {
+  margin-top: 2rem;
+  font-weight: bold;
+}

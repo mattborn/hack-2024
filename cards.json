@@ -1,0 +1,1524 @@
+[
+  {
+    "deps": [],
+    "description": "",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [],
+    "title": "",
+    "urls": [],
+    "path": ".git",
+    "created": "2024-12-17 14:21:25",
+    "lastModified": "2024-12-19 04:42:16"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit",
+      "talk-to-json"
+    ],
+    "description": "List all the things you want to see other people doing.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "OSS",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Action Hackson 🔵",
+    "urls": [],
+    "path": "action-h",
+    "created": "2024-12-18 21:57:18",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Moving private API endpoints from GCP to Vercel.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "api 🔴",
+    "urls": [
+      "mattborn.com/api"
+    ],
+    "path": "api",
+    "created": "2024-12-18 21:57:18",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Pull & push Google Calendar events.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Today"
+    ],
+    "title": "Gcal API 🔴",
+    "urls": [
+      "mattborn.com/api-gcal"
+    ],
+    "path": "api-gcal",
+    "created": "2024-12-18 21:57:19",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "credentials.json"
+    ],
+    "description": "Pull emails from Gmail.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Limbo"
+    ],
+    "title": "Gmail API 🔴",
+    "urls": [
+      "gmailpull.com"
+    ],
+    "path": "api-gmail",
+    "created": "2024-12-02 21:46:51",
+    "lastModified": "2024-12-11 10:50:21"
+  },
+  {
+    "deps": [],
+    "description": "Cloud function that returns completions.",
+    "image": "",
+    "repo": "mattborn/api-openai-4",
+    "tags": [
+      "OSS",
+      "Snooze"
+    ],
+    "title": "api-openai-4 🟢",
+    "urls": [],
+    "path": "api-openai-4",
+    "created": "2024-12-18 21:57:19",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "All your API keys in one place with easy edge functions.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Apikeys 🔴",
+    "urls": [
+      "apikeys.io"
+    ],
+    "path": "apikeys",
+    "created": "2024-12-18 21:57:19",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "uxjson"
+    ],
+    "description": "Step through JSON states with arrow keys.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Micro",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Arrowstate 🟡",
+    "urls": [
+      "arrowstate.net"
+    ],
+    "path": "arrowstate",
+    "created": "2024-12-18 21:57:20",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Test modality for audio in → text + audio out.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Broken",
+      "Limbo"
+    ],
+    "title": "gpt-4o-audio-preview 🟡",
+    "urls": [],
+    "path": "audio-preview",
+    "created": "2024-12-18 21:57:20",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Browser agent call sequencer inspired by Basic.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later",
+      "Stuck"
+    ],
+    "title": "Basic Run 🔴",
+    "urls": [],
+    "path": "basic-run",
+    "created": "2024-12-18 21:57:20",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "map"
+    ],
+    "description": "Mapped & sorted lists centered on your saved spots.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Bigfoot 🔴",
+    "urls": [
+      "bïgfoot.com"
+    ],
+    "path": "bigfoot",
+    "created": "2024-12-18 21:57:20",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit",
+      "talk-to-json"
+    ],
+    "description": "Used for non-hero info product and hard sell.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "OSS",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Billboard 🔵",
+    "urls": [],
+    "path": "billboard",
+    "created": "2024-12-18 21:57:21",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Let JSON remember all the birthdays.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Birthdays 🔴",
+    "urls": [
+      "birthday.bingo",
+      "birthday.wtf",
+      "birthdays.plus"
+    ],
+    "path": "birthdays",
+    "created": "2024-12-18 21:57:21",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai"
+    ],
+    "description": "Showing the work behind the schemas I’m sculpting.",
+    "image": "",
+    "repo": "mattborn/bornjson",
+    "tags": [
+      "HumanLayer",
+      "Today"
+    ],
+    "title": "Born.json 🟡",
+    "urls": [
+      "bornjson.com"
+    ],
+    "path": "bornjson",
+    "created": "2024-12-18 21:57:21",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "figmai",
+      "talk-to-json"
+    ],
+    "description": "The greatest hits of branding accelerated with AI.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Brandy 🔵",
+    "urls": [],
+    "path": "brandy",
+    "created": "2024-12-18 21:57:22",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "born.json",
+      "calcutai",
+      "talk-to-json"
+    ],
+    "description": "An AI agent that bullet journals for you.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Next",
+      "Stuck"
+    ],
+    "title": "Bullets 🔵",
+    "urls": [
+      "bullets.pro",
+      "bulletagent.com"
+    ],
+    "path": "bullets",
+    "created": "2024-12-18 21:57:22",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Minimalist timeline animations for your website.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Today"
+    ],
+    "title": "Bulletime 🔵",
+    "urls": [
+      "bulletime.com"
+    ],
+    "path": "bullettime",
+    "created": "2024-12-19 06:18:05",
+    "lastModified": "2024-12-19 06:26:51"
+  },
+  {
+    "deps": [],
+    "description": "Easily compare billable vs. non-billable hours.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Broken",
+      "Limbo"
+    ],
+    "title": "Burn 🔴",
+    "urls": [],
+    "path": "burn",
+    "created": "2024-12-10 10:32:22",
+    "lastModified": "2024-12-10 18:49:13"
+  },
+  {
+    "deps": [
+      "api-gcal",
+      "talk-to-json"
+    ],
+    "description": "Voice to calendar blocking.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Today"
+    ],
+    "title": "Calcutai 🟡",
+    "urls": [
+      "calcutai.com"
+    ],
+    "path": "calcutai",
+    "created": "2024-12-18 21:57:22",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Generate project summary cards from ABOUT.json files.",
+    "image": "",
+    "repo": "mattborn/cardify",
+    "tags": [
+      "CLI",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Cardify 🟢",
+    "urls": [
+      "cardify.cards"
+    ],
+    "path": "cardify",
+    "created": "2024-12-18 21:57:23",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "All the browser and Figma tabs I close by date.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Closed 🔴",
+    "urls": [],
+    "path": "closed",
+    "created": "2024-12-18 21:57:24",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "talk-to-json"
+    ],
+    "description": "Dope ass color palettes for your website.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Colorcade 🔵",
+    "urls": [],
+    "path": "colorcade",
+    "created": "2024-12-18 21:57:24",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Like inbox zero, but for all your commitments.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Commit Zero 🔴",
+    "urls": [
+      "commitzero.com"
+    ],
+    "path": "commitzero",
+    "created": "2024-12-18 21:57:24",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "talk-to-json"
+    ],
+    "description": "Generate structured content from a personalized context window.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Copykit 🔵",
+    "urls": [
+      "copykit.net"
+    ],
+    "path": "copykit",
+    "created": "2024-12-18 21:57:25",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "talk-to-json"
+    ],
+    "description": "An AI agent that serves as your Chief of Staff.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Cosmo 🔴",
+    "urls": [
+      "agentcosmo.com"
+    ],
+    "path": "cosmo",
+    "created": "2024-12-18 21:57:25",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "circle.so",
+      "Web",
+      "wejoin.me"
+    ],
+    "description": "Community-centered course content & collaboration.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Next"
+    ],
+    "title": "Darrin 🔵",
+    "urls": [
+      "darrin.group"
+    ],
+    "path": "darrin",
+    "created": "2024-12-18 21:57:25",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "bornjson",
+      "calcutai"
+    ],
+    "description": "Standard dashboard for spend, utilization, and performance.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [],
+    "title": "Dashboard 🔴",
+    "urls": [],
+    "path": "dashboard",
+    "created": "2024-12-11 12:09:45",
+    "lastModified": "2024-12-11 12:11:11"
+  },
+  {
+    "deps": [],
+    "description": "Effortless slide decks. See: deckdocs.com",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Deckwish 🔴",
+    "urls": [
+      "deckwish.com"
+    ],
+    "path": "deckwish",
+    "created": "2024-12-18 21:57:26",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Think different. Make different.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Always"
+    ],
+    "title": "Different 🟡",
+    "urls": [],
+    "path": "different",
+    "created": "2024-12-18 21:57:26",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "A tool to help your team make decisions.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Dilemm 🔴",
+    "urls": [],
+    "path": "dilemm",
+    "created": "2024-12-18 21:57:26",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "From voice to one pager explaining your idea.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Donepage 🔴",
+    "urls": [
+      "donepage.com"
+    ],
+    "path": "donepage",
+    "created": "2024-12-18 21:57:26",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai"
+    ],
+    "description": "Magic Figma frames.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Next"
+    ],
+    "title": "Figmai 🔵",
+    "urls": [
+      "figm.ai",
+      "figmai.net"
+    ],
+    "path": "figmai",
+    "created": "2024-12-18 21:57:27",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit"
+    ],
+    "description": "Frequently asked questions made stupid simple.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Focker 🔵",
+    "urls": [],
+    "path": "focker",
+    "created": "2024-12-18 21:57:27",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit"
+    ],
+    "description": "Dope ass footer templates for your website.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "OSS",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Footiejams 🔵",
+    "urls": [],
+    "path": "footiejams",
+    "created": "2024-12-18 21:57:27",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "api-gmail",
+      "credentials.json"
+    ],
+    "description": "Extract sent emails from Gmail for reuse in email campaigns",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Broken",
+      "Limbo"
+    ],
+    "title": "Gfux 🔴",
+    "urls": [],
+    "path": "gfux",
+    "created": "2024-12-18 21:57:27",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Fast reasoning about the state of local git repos.",
+    "image": "",
+    "repo": "mattborn/gitfarm",
+    "tags": [
+      "CLI",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Gitfarm 🟢",
+    "urls": [
+      "git.farm"
+    ],
+    "path": "gitfarm",
+    "created": "2024-12-18 21:57:28",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "This page where you are most likely reading this.",
+    "image": "",
+    "repo": "mattborn/hacklist",
+    "tags": [
+      "CLI",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Hacklist 🟢",
+    "urls": [
+      "hacklist.net"
+    ],
+    "path": "hacklist",
+    "created": "2024-12-18 21:57:28",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit"
+    ],
+    "description": "Dope ass hero headers with Open Graph previews for your website.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Hiro 🔵",
+    "urls": [],
+    "path": "hiro",
+    "created": "2024-12-18 21:57:30",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Just like it sounds.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Home Movies 🔴",
+    "urls": [],
+    "path": "home-movies",
+    "created": "2024-12-18 21:57:30",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [],
+    "title": "",
+    "urls": [],
+    "path": "humanlayer-test",
+    "created": "2024-12-18 21:57:30",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [],
+    "title": "",
+    "urls": [],
+    "path": "humanlayer-uxjson-nov14",
+    "created": "2024-12-19 06:18:05",
+    "lastModified": "2024-12-19 06:18:05"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit"
+    ],
+    "description": "AI-accelerated social media content strategy.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Hypemain 🔵",
+    "urls": [],
+    "path": "hypemain",
+    "created": "2024-12-18 21:57:41",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Inline integration testing for browser-based agents.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Limbo"
+    ],
+    "title": "Intested 🔴",
+    "urls": [
+      "intested.com"
+    ],
+    "path": "intested",
+    "created": "2024-12-09 17:33:24",
+    "lastModified": "2024-12-10 18:49:13"
+  },
+  {
+    "deps": [],
+    "description": "A new way to build software and manage data.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Iterati 🔴",
+    "urls": [],
+    "path": "iterati",
+    "created": "2024-12-18 21:57:41",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "subsurf"
+    ],
+    "description": "The public facing microservice for Subsurf.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Lander 🔵",
+    "urls": [],
+    "path": "lander",
+    "created": "2024-12-18 21:57:41",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai"
+    ],
+    "description": "Clean up your links.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Today"
+    ],
+    "title": "Linktink 🔴",
+    "urls": [
+      "linktink.net"
+    ],
+    "path": "linktink",
+    "created": "2024-12-18 21:57:42",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai"
+    ],
+    "description": "Dope ass SVG logo grids for your website.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Logogrid 🔵",
+    "urls": [],
+    "path": "logogrid",
+    "created": "2024-12-18 21:57:42",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit"
+    ],
+    "description": "Dope ass cards for your website.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Macardi 🔵",
+    "urls": [],
+    "path": "macardi",
+    "created": "2024-12-18 21:57:42",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "First there was markup, then markdown, and now, Markless.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Markless",
+    "urls": [
+      "markless.net"
+    ],
+    "path": "markless",
+    "created": "2024-12-18 21:57:43",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Quick start & two-way sync for HTML & CSS selectors.",
+    "image": "",
+    "repo": "mattborn/markonce",
+    "tags": [
+      "CLI",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Markonce 🟢",
+    "urls": [
+      "markonce.net"
+    ],
+    "path": "markonce",
+    "created": "2024-12-18 21:57:43",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "What if I _am_ an info product?",
+    "image": "",
+    "repo": "mattborn/mattborn.github.io",
+    "tags": [
+      "Later"
+    ],
+    "title": "Matflix 🔴",
+    "urls": [
+      "mattborn.com"
+    ],
+    "path": "mattborn",
+    "created": "2024-12-18 21:57:43",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "The lightest UI kit on the planet.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Minterface 🔴",
+    "urls": [
+      "minterface.net"
+    ],
+    "path": "minterface",
+    "created": "2024-12-18 21:57:44",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Minimalist browser camera UI. Related to Parrot.",
+    "image": "",
+    "repo": "mattborn/mirror",
+    "tags": [
+      "Micro",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Mirror 🟢",
+    "urls": [
+      "mirrorjs.com"
+    ],
+    "path": "mirror",
+    "created": "2024-12-18 21:57:44",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai"
+    ],
+    "description": "AI-accelerated motion graphics.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Mogra 🔵",
+    "urls": [],
+    "path": "mogra",
+    "created": "2024-12-18 21:57:44",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Do something interesting with downloaded transactions.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Money.js 🔴",
+    "urls": [
+      "moneyjs.net",
+      "moneyjson.com"
+    ],
+    "path": "moneyjs",
+    "created": "2024-12-18 21:57:45",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Imagine all the people sharing all the world — you.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Muggles 🔴",
+    "urls": [
+      "muggles.ai"
+    ],
+    "path": "muggles",
+    "created": "2024-12-18 21:57:45",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "minterface",
+      "samesies"
+    ],
+    "description": "A little bit of everything, and it’s still nothing.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Today"
+    ],
+    "title": "Nothing 🔴",
+    "urls": [
+      "nothing.tools"
+    ],
+    "path": "nothing",
+    "created": "2024-12-18 21:57:45",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Portable CRM.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "People.js 🔴",
+    "urls": [
+      "peoplejs.net"
+    ],
+    "path": "peoplejs",
+    "created": "2024-12-18 21:57:46",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit",
+      "talk-to-json"
+    ],
+    "description": "AI-accelerated persona development. Know your audience.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Person A 🔵",
+    "urls": [],
+    "path": "person-a",
+    "created": "2024-12-18 21:57:46",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "A line with every point from idea to done million.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Pointline 🔴",
+    "urls": [
+      "pointline.io"
+    ],
+    "path": "pointline",
+    "created": "2024-12-18 21:57:46",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Deterministic pomodoro timer using clock time.",
+    "image": "",
+    "repo": "mattborn/pomoclock",
+    "tags": [
+      "Micro",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Pomoclock 🟢",
+    "urls": [
+      "pomoclock.net"
+    ],
+    "path": "pomoclock",
+    "created": "2024-12-18 21:57:46",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "A collection of static code style references.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Ref 🟡",
+    "urls": [
+      "xontology.com"
+    ],
+    "path": "ref",
+    "created": "2024-03-07 14:06:15",
+    "lastModified": "2024-12-18 09:29:05"
+  },
+  {
+    "deps": [],
+    "description": "Demystifying common files for common web stacks.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Rootfile 🔴",
+    "urls": [
+      "rootfil.es",
+      "rootfile.org",
+      "rootfile.co",
+      "rootfile.io"
+    ],
+    "path": "rootfile",
+    "created": "2024-12-18 21:57:47",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Rota + tango = the dance of doing your rounds.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Rotango 🔴",
+    "urls": [
+      "rotango.net",
+      "rotango.co",
+      "rotango.io"
+    ],
+    "path": "rotango",
+    "created": "2024-12-18 21:57:47",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [],
+    "title": "",
+    "urls": [],
+    "path": "ryan-demo",
+    "created": "2024-11-25 10:42:50",
+    "lastModified": "2024-12-10 18:49:13"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "minterface"
+    ],
+    "description": "Copy pasta from a one page library of static components.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Next",
+      "Web"
+    ],
+    "title": "Samesies 🔵",
+    "urls": [
+      "samesi.es",
+      "samesies.dev",
+      "samesies.ai"
+    ],
+    "path": "samesies",
+    "created": "2024-12-18 21:57:47",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "AI agent for phone screen interviews.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Limbo"
+    ],
+    "title": "Screener 🟡",
+    "urls": [],
+    "path": "screener",
+    "created": "2024-12-18 21:57:48",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Sports events calendar.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Sportsball 🔴",
+    "urls": [],
+    "path": "sportsball",
+    "created": "2024-12-18 21:57:48",
+    "lastModified": "2024-12-19 06:32:25"
+  },
+  {
+    "deps": [],
+    "description": "Visualize & discuss sprint weeks on one screen.",
+    "image": "",
+    "repo": "moonadesign/sprinter-nav",
+    "tags": [
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Sprinter naV 🟢",
+    "urls": [
+      "sprinternav.com"
+    ],
+    "path": "sprinter-nav",
+    "created": "2024-12-18 21:57:49",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "copykit",
+      "talk-to-json"
+    ],
+    "description": "Dope ass plans and pricing for your website.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Subplanet 🔵",
+    "urls": [],
+    "path": "subplanet",
+    "created": "2024-12-18 21:58:07",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [
+      "calcutai"
+    ],
+    "description": "The stitcher between all the microservices for a single lander.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Subsurf 🔵",
+    "urls": [],
+    "path": "subsurf",
+    "created": "2024-12-18 21:58:07",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [
+      "bornjson",
+      "calcutai",
+      "dilemm",
+      "mattborn",
+      "Web",
+      "wejoin"
+    ],
+    "description": "The Superwork Series will 9x your work with AI.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Next",
+      "Web"
+    ],
+    "title": "Superwork 🔵",
+    "urls": [
+      "superwork.us"
+    ],
+    "path": "superwork",
+    "created": "2024-12-18 21:58:07",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [],
+    "description": "Transcription appears as JSON in real-time.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Limbo",
+      "OSS"
+    ],
+    "title": "Talk-to-JSON 🟢",
+    "urls": [
+      "talkjson.com"
+    ],
+    "path": "talk-to-json",
+    "created": "2024-12-18 21:58:07",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [],
+    "description": "An exhibition of projects liberating towards natural inputs.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Tell & Show 🔴",
+    "urls": [
+      "tellshow.org",
+      "tellshow.io",
+      "telln.show"
+    ],
+    "path": "tell-and-show",
+    "created": "2024-12-18 21:58:23",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [],
+    "description": "Shane called his Voice-to-Invoice",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Tell Invoice 🔴",
+    "urls": [
+      "tellinvoice.com",
+      "sayinvoice.com"
+    ],
+    "path": "tell-invoice",
+    "created": "2024-12-18 21:58:24",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [],
+    "description": "A reusable starter kit for tell-style apps.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Tellstack 🟡",
+    "urls": [
+      "tellstack.co",
+      "tellstack.io"
+    ],
+    "path": "tellstack",
+    "created": "2024-12-18 21:58:24",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [
+      "calcutai",
+      "minterface",
+      "samesies"
+    ],
+    "description": "The most common 13 sections on a marketing site.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Micro",
+      "Next",
+      "Subsurf",
+      "Web"
+    ],
+    "title": "Thirteen 🔵",
+    "urls": [
+      "thirteen.website"
+    ],
+    "path": "thirteen",
+    "created": "2024-12-18 21:58:24",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [],
+    "description": "Generate minimalist thumbnails for all my projects.",
+    "image": "",
+    "repo": "mattborn/thumby",
+    "tags": [
+      "Micro",
+      "OSS",
+      "Snooze"
+    ],
+    "title": "Thumby 🟢",
+    "urls": [
+      "thumby.net"
+    ],
+    "path": "thumby",
+    "created": "2024-12-18 21:58:24",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [
+      "calcutai"
+    ],
+    "description": "Super fast project branding with JSON font settings.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Today"
+    ],
+    "title": "Typesets 🔴",
+    "urls": [
+      "typesets.net"
+    ],
+    "path": "typesets",
+    "created": "2024-12-11 11:12:02",
+    "lastModified": "2024-12-11 11:13:56"
+  },
+  {
+    "deps": [
+      "api-gmail",
+      "credentials.json"
+    ],
+    "description": "A tool to help you unsubscribe from spam emails.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Broken",
+      "Limbo"
+    ],
+    "title": "Unspam 🔴",
+    "urls": [],
+    "path": "unspam",
+    "created": "2024-12-18 21:58:25",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [
+      "arrowstate"
+    ],
+    "description": "See: humanlayer-uxjson-nov14",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "HumanLayer",
+      "Later"
+    ],
+    "title": "UX.json 🔴",
+    "urls": [
+      "uxjson.com"
+    ],
+    "path": "uxjson",
+    "created": "2024-12-18 21:58:25",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [],
+    "description": "Minimalist HTML templates to start your site.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Today"
+    ],
+    "title": "Vanilla 🍦",
+    "urls": [
+      "vanil.io"
+    ],
+    "path": "vanilla",
+    "created": "2024-12-19 06:18:05",
+    "lastModified": "2024-12-19 06:32:46"
+  },
+  {
+    "deps": [],
+    "description": "",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [],
+    "title": "",
+    "urls": [],
+    "path": "venv",
+    "created": "2024-12-06 14:20:25",
+    "lastModified": "2024-12-10 18:49:13"
+  },
+  {
+    "deps": [],
+    "description": "Group access code redirect links.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "Wejoin 🔴",
+    "urls": [
+      "wejoin.me"
+    ],
+    "path": "wejoin",
+    "created": "2024-12-18 21:58:27",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [],
+    "description": "Holding Company / Startup Studio / Venture Studio",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "Later"
+    ],
+    "title": "With&For 🔴",
+    "urls": [
+      "withfor.co"
+    ],
+    "path": "withfor",
+    "created": "2024-11-18 15:06:43",
+    "lastModified": "2024-12-19 06:32:26"
+  },
+  {
+    "deps": [
+      "bornjson",
+      "calcutai"
+    ],
+    "description": "Outline TODO from recent chats & comments.",
+    "image": "",
+    "repo": "mattborn/",
+    "tags": [
+      "CLI",
+      "Next"
+    ],
+    "title": "Worksynth 🔵",
+    "urls": [],
+    "path": "worksynth",
+    "created": "2024-12-18 21:58:28",
+    "lastModified": "2024-12-19 06:32:26"
+  }
+]

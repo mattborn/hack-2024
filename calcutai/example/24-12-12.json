@@ -1,0 +1,113 @@
+[
+  {
+    "start": "8:00",
+    "project": "Personal",
+    "task": "Gym with Dex"
+  },
+  {
+    "start": "9:30",
+    "project": "Pricing",
+    "task": "Call with Revalize"
+  },
+  {
+    "start": "10:30",
+    "project": "Personal",
+    "task": "Shower"
+  },
+  {
+    "start": "11:00",
+    "project": "Hustle",
+    "task": "Chat with Shane"
+  },
+  {
+    "start": "11:30",
+    "project": "HumanLayer",
+    "task": "Commute to office"
+  },
+  {
+    "start": "12:00",
+    "project": "Hustle",
+    "task": "Chat with Rafi about Tandem",
+    "result": "I need to follow up with Ben"
+  },
+  {
+    "start": "12:30",
+    "project": "Hacklist",
+    "task": "Plan the day"
+  },
+  {
+    "start": "13:00",
+    "project": "Pomoclock & Lunch",
+    "task": "Need to eat!",
+    "result": "https://github.com/mattborn/pomoclock"
+  },
+  {
+    "start": "13:30",
+    "project": "Moona Messaging",
+    "task": "Prep for Darrin"
+  },
+  {
+    "start": "14:00",
+    "project": "Moona Messaging",
+    "task": "Collab with Darrin"
+  },
+  {
+    "start": "14:30",
+    "project": "Moona Messaging",
+    "task": "Collab with Darrin"
+  },
+  {
+    "start": "15:00",
+    "project": "Moona Messaging",
+    "task": "Collab with Darrin"
+  },
+  {
+    "start": "15:30",
+    "project": "Moona Messaging",
+    "task": "Collab with Darrin — Superwork!"
+  },
+  {
+    "start": "16:00",
+    "project": "Pomoclock",
+    "task": "Work on Pomoclock"
+  },
+  {
+    "start": "16:30",
+    "project": "Personal",
+    "task": "Walk to dinner"
+  },
+  {
+    "start": "17:00",
+    "project": "Hacklist",
+    "task": "Make it better",
+    "result": "http://localhost:2448"
+  },
+  {
+    "start": "19:30",
+    "project": "Personal",
+    "task": "Connecticut Yankee"
+  },
+  {
+    "start": "20:00",
+    "project": "Calcutai",
+    "task": "Get to feel good",
+    "result": "http://localhost:2448/calcutai"
+  },
+  {
+    "start": "20:30",
+    "project": "Calcutai",
+    "task": "And now keep going!",
+    "result": "http://localhost:2448/calcutai"
+  },
+  {
+    "start": "21:00",
+    "project": "Calcutai",
+    "task": "Keep making it better!",
+    "result": "http://localhost:2448/calcutai"
+  },
+  {
+    "start": "21:30",
+    "project": "Personal",
+    "task": "Bike back to Dogpatch"
+  }
+]

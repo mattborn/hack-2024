@@ -1,0 +1,115 @@
+[
+  {
+    "start": "8:00",
+    "project": "Moona Hiring",
+    "task": "Call with Somewhere"
+  },
+  {
+    "start": "8:30",
+    "project": "HumanLayer",
+    "task": "Commute to the office with Dex"
+  },
+  {
+    "start": "9:00",
+    "project": "HumanLayer",
+    "task": "Plan the day"
+  },
+  {
+    "start": "9:30",
+    "project": "Gitfarm",
+    "task": "Improve logging in review.js"
+  },
+  {
+    "start": "10:00",
+    "project": "Many",
+    "task": "Draft prompts in codebuff.txts",
+    "result": "Figuring out how many Web projects I need is now most critical!"
+  },
+  {
+    "start": "10:30",
+    "project": "Many",
+    "task": "Get to green dot on more projects in gitfarm/review",
+    "result": "From 7 green dots to 15 green dots!"
+  },
+  {
+    "start": "11:00",
+    "project": "HumanLayer",
+    "task": "Generic approvals and/or Mailcrew lander"
+  },
+  {
+    "start": "11:30",
+    "project": "Subsurf",
+    "task": "Stub out all the micro projects!"
+  },
+  {
+    "start": "12:00",
+    "project": "Personal",
+    "task": "Lunch with Tandem"
+  },
+  {
+    "start": "12:30",
+    "project": "Personal",
+    "task": "Lunch with Tandem"
+  },
+  {
+    "start": "13:00",
+    "project": "HumanLayer",
+    "task": "Style Human status in Approvals table"
+  },
+  {
+    "start": "13:30",
+    "project": "HumanLayer",
+    "task": "Style Human status in Approvals table"
+  },
+  {
+    "start": "14:00",
+    "project": "HumanLayer",
+    "task": "Style Human status in Approvals table"
+  },
+  {
+    "start": "14:30",
+    "project": "HumanLayer",
+    "task": "Style Human status in Approvals table",
+    "result": "https://github.com/metalytics-dev/metalytics/pull/815"
+  },
+  {
+    "start": "15:00",
+    "project": "Linktink",
+    "task": "Create example JSON schema & in Born.json"
+  },
+  {
+    "start": "16:30",
+    "project": "Travel",
+    "task": "Lyft to SFO"
+  },
+  {
+    "start": null,
+    "project": "Brandon & HumanLayer",
+    "task": "Figure out how many Web projects I need"
+  },
+  {
+    "start": null,
+    "project": "Samesies",
+    "task": "Create example JSON schema & in Born.json"
+  },
+  {
+    "start": null,
+    "project": "Superwork",
+    "task": "Create example JSON schema & in Born.json"
+  },
+  {
+    "start": null,
+    "project": "Typesets",
+    "task": "Create example JSON schema & in Born.json"
+  },
+  {
+    "start": null,
+    "project": "Gcal API",
+    "task": "Create example JSON schema & in Born.json"
+  },
+  {
+    "start": null,
+    "project": "Thirteen",
+    "task": "Create example JSON schema & in Born.json"
+  }
+]

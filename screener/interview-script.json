@@ -1,0 +1,30 @@
+{
+  "welcome": "Hello and welcome to your interview. I'm an AI interviewer, and I'll be conducting your initial screening today. Feel free to ask me questions at any time.",
+  "introduction": "Let's start with a brief introduction. Could you please tell me about yourself?",
+  "questions": [
+    {
+      "id": "experience",
+      "text": "Could you walk me through your relevant experience for this position?"
+    },
+    {
+      "id": "motivation",
+      "text": "What interests you about this role and our company?"
+    },
+    {
+      "id": "skills",
+      "text": "What are your key technical skills and how have you applied them?"
+    },
+    {
+      "id": "challenges",
+      "text": "Can you describe a challenging project you worked on and how you handled it?"
+    },
+    {
+      "id": "teamwork",
+      "text": "How do you prefer to work within a team?"
+    }
+  ],
+  "closing": {
+    "invitation": "Do you have any questions for me about the role or company?",
+    "signoff": "Thank you for your time today. We'll be in touch with next steps soon."
+  }
+}

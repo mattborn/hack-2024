@@ -1,0 +1,14 @@
+[
+  {
+    "title": "First State",
+    "description": "This is the first state"
+  },
+  {
+    "title": "Second State",
+    "description": "Use arrow keys to navigate states"
+  },
+  {
+    "title": "Third State",
+    "description": "This is the final state"
+  }
+]

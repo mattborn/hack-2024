@@ -1,0 +1,19 @@
+{
+  "name": "screener",
+  "version": "0.1.0",
+  "description": "## Overview Screener is a web application that automates initial phone screen interviews, replacing traditional recruiter-led screening processes. It uses voice interaction, LLM technology, and real-time transcription to conduct and analyze candidate interviews.",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "openai": "^4.75.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "unspam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "express": "^4.21.1",
+    "googleapis": "^144.0.0"
+  }
+}

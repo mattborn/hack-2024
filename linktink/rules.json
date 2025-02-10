@@ -1,0 +1,33 @@
+[
+  {
+    "domain": "youtu.be",
+    "removeParams": ["si"],
+    "keepOnlyParams": ["t"]
+  },
+  {
+    "domain": "youtube.com",
+    "removeParams": ["si"],
+    "keepOnlyParams": ["v", "t"]
+  },
+  {
+    "domain": "spotify.com",
+    "removeParams": ["si"]
+  },
+  {
+    "domain": "amazon.com",
+    "keepSegments": {
+      "dp": "next"
+    }
+  },
+  {
+    "domain": "figma.com",
+    "pathRules": {
+      "design": {
+        "keepOnlyParams": ["node-id"]
+      },
+      "proto": {
+        "keepOnlyParams": ["node-id", "page-id", "starting-point-node-id"]
+      }
+    }
+  }
+]

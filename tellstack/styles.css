@@ -1,0 +1,52 @@
+/* Layout */
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+/* Components */
+#waveform {
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+.demo {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+/* Stats */
+.stats {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.stat label {
+  font-size: 0.875rem;
+  color: #666;
+}
+
+/* Placeholders */
+#transcription, #formatted {
+  min-height: 100px;
+  background: #fff;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-top: 1rem;
+}

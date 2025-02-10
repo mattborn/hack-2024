@@ -1,0 +1,9 @@
+{
+  "deps": ["uxjson"],
+  "description": "Step through JSON states with arrow keys.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Micro", "OSS", "Snooze"],
+  "title": "Arrowstate 🟡",
+  "urls": ["arrowstate.net"]
+}

@@ -1,0 +1,7 @@
+create a vanilla HTML project in /calcutai with index.html, scripts.js, and styles.css that renders the example/24-12-11.json file in a minimalist daily planner type UI with three columns, the first column with the items that do not have assigned times yet, the second column with the items that have assigned times, and the third column shows details of the current time block including a pomodoro timer that starts automatically and a 5 minute break countdown as well, craft a brief README.md file that describes the project, keep the code as minimal as possible
+
+so the /calcutai/example/24-12-11.json file is already there and I expected you to reference it to understand the schema in order to render it in the UI
+
+perfect, now the current block should be selected by default and the pomodoro timer should start automatically without having to click and that timer should reflect current clock time so if it is 10:21:04 and the block start is 10:00 then the timer should start at 3:59:56 remaining and the 5 minute break countdown should start immediately after that one ends then auto select then next block at after that break ends, all past blocks that have already occurred should be dim, and clicking on an unassigned item in the first column should move it to the next available slot on the schedule in the second column, everything is based on 30 minute increment time slots
+
+each column should scroll independently and the second column should auto scroll to the current block so that it is visible on page load

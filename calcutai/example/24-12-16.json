@@ -1,0 +1,90 @@
+[
+  {
+    "start": "8:30",
+    "project": "Personal",
+    "task": "Take girls to school"
+  },
+  {
+    "start": "9:00",
+    "project": "Onboard Carlo",
+    "task": "Initial call with Carlo"
+  },
+  {
+    "start": "9:30",
+    "project": "Onboard Carlo",
+    "task": "Initial call with Carlo"
+  },
+  {
+    "start": "10:00",
+    "project": "Onboard Carlo",
+    "task": "Reach out to Smriti about Gusto issue",
+    "result": "https://moonadesign.slack.com/archives/C085D45B02G/p1734369679234959"
+  },
+  {
+    "start": "10:30",
+    "project": "Onboard Carlo",
+    "task": "Fix name and country in Gusto"
+  },
+  {
+    "start": "11:00",
+    "project": "Moona CRM",
+    "task": "Pay for Folk.app with Carlo"
+  },
+  {
+    "start": "11:30",
+    "project": "Sprout Alumni",
+    "task": "Call with Mary"
+  },
+  {
+    "start": "12:00",
+    "project": "Sprout Alumni",
+    "task": "Call with Mary"
+  },
+  {
+    "start": "12:30",
+    "project": "Personal",
+    "task": "Lunch"
+  },
+  {
+    "start": "13:00",
+    "project": "Personal",
+    "task": "Shower"
+  },
+  {
+    "start": "13:30",
+    "project": "Space out",
+    "task": "I just stare at my desk, but it looks like I’m working",
+    "result": "https://youtu.be/zBfTrjPSShs"
+  },
+  {
+    "start": "14:00",
+    "project": "Personal",
+    "task": "Music class with Indigo"
+  },
+  {
+    "start": "14:30",
+    "project": "Personal",
+    "task": "Music class with Indigo"
+  },
+  {
+    "start": "15:00",
+    "project": "HumanLayer",
+    "task": "Approval timeline animation for web"
+  },
+  {
+    "start": "15:30",
+    "project": "Moona CRM",
+    "task": "Review Folk.app, feedback for Carlo"
+  },
+  {
+    "start": "16:00",
+    "project": "Moona CRM",
+    "task": "Figure out how Joey did the lead lists",
+    "result": "https://moonadesign.slack.com/archives/D05V6ET3THP/p1734391210894169?thread_ts=1734390835.271989&cid=D05V6ET3THP"
+  },
+  {
+    "start": "16:30",
+    "project": "",
+    "task": ""
+  }
+]
