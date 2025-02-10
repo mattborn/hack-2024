@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GitHub Repo Manager</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      async
+      crossorigin="anonymous"
+      data-clerk-publishable-key="pk_test_ZmFpci1nZWxkaW5nLTMyLmNsZXJrLmFjY291bnRzLmRldiQ"
+      src="https://fair-gelding-32.clerk.accounts.dev/npm/@clerk/clerk-js@latest/dist/clerk.browser.js"
+    ></script>
+    <script src="scripts.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div id="user-button"></div>
+      <div id="sign-in"></div>
+      <div id="content" class="hidden">
+        <h1>Your GitHub Repos</h1>
+        <div id="repos"></div>
+      </div>
+    </div>
+  </body>
+</html>

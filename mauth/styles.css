@@ -1,0 +1,35 @@
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 2rem;
+}
+
+#app {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#user-button {
+  margin-bottom: 2rem;
+}
+
+.repo {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.repo h2 {
+  margin: 0 0 0.5rem;
+}
+
+.repo p {
+  margin: 0;
+  color: #666;
+}
+
+.hidden {
+  display: none;
+}

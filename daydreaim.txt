@@ -1,0 +1,30 @@
+daydreaim.com mvp
+journey
+adventure
+from talking to presenting
+the dumbest router
+create account (mirror github?!)
+/mattborn (projects, browse index)
+create /mattborn/project
+create /team
+/team (projects, browse index)
+talk about it
+object has one id to many inputs
+e.g. type=transcription
+generates metadata (o1)
+generates thumbnail (thumby)
+generates wordmark ()
+generates web presentation, lander (codebuff)
+pushes to github
+deploys to pages
+adds to monorepo (select which tags?!)
+download monorepo
+(run this command to sync locally)
+browse index
+view as list, cards, schedule
+filter by status, tag
+sort by time
+toggle on/off schedule
+toggle private/public
+toggle availability blocks
+view stats = teams, projects, credits, branches, commits, visits, clicks

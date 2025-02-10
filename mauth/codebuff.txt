@@ -1,0 +1,1 @@
+create a vanilla Jamstack project in /mauth with index.html, scripts.js, and styles.css that uses Clerk to authenticate with GitHub and stores an arbitrary array of objects with metadata about repos, keep the code as minimal as possible
