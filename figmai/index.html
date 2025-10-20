@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Figmai</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="scripts.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Figmai</h1>
+      <div id="auth">
+        <button id="login">Connect to Figma</button>
+      </div>
+      <div id="content" class="hidden">
+        <div class="input-group">
+          <input type="text" id="fileUrl" placeholder="Paste Figma file URL" />
+          <button id="fetch">Fetch</button>
+        </div>
+        <div id="frames"></div>
+        <div class="actions hidden">
+          <button id="create">Create Frame</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

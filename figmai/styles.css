@@ -1,0 +1,67 @@
+:root {
+  --color-bg: white;
+  --color-text: #101828;
+  --color-border: #eee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font: 14px/1.5 system-ui, sans-serif;
+  margin: 0;
+  padding: 2rem;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+h1 {
+  margin: 0 0 2rem;
+}
+
+button {
+  background: var(--color-text);
+  border: 0;
+  border-radius: 6px;
+  color: var(--color-bg);
+  cursor: pointer;
+  font: inherit;
+  padding: 8px 16px;
+}
+
+.input-group {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 1rem;
+}
+
+input {
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  font: inherit;
+  padding: 8px;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+#frames {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  margin: 1rem 0;
+}
+
+.frame {
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 1rem;
+}
